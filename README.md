@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Raja Rahman 👋
 
-<!--
-**Raja-Rahman/Raja-Rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub.
 
-Here are some ideas to get you started:
+Este espaço reúne meus projetos, estudos e colaborações em desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+- 🌱 Explorando novas tecnologias e boas práticas de desenvolvimento
+- 💻 Criando projetos e compartilhando conhecimento
+- 🤝 Aberto a colaborações e aprendizado contínuo
+
+## Contato
+- GitHub: [@Raja-Rahman](https://github.com/Raja-Rahman)
+
+> Sempre aprendendo, construindo e evoluindo.
